@@ -1,0 +1,8 @@
+#write my requirements for google cloud functions
+functions-framework==3.*
+requests
+pandas
+haversine
+openai
+flask
+python-dotenv
